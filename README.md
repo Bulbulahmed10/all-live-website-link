@@ -1,6 +1,6 @@
 # all-live-website-link
-
-### tea house website : https://bulbulahmed10.github.io/tea-house-website/
+### Legal Solution website(responsive): https://legal-solution-house.netlify.app/
+### tea house website: https://bulbulahmed10.github.io/tea-house-website/
 ### convention-center-website (responsive): https://bulbulahmed10.github.io/convention-center/
 ### G3-Architects website (responsive) : https://bulbulahmed10.github.io/G3-Architects/
 ### influencer gears website (responsive) : https://github.com/Bulbulahmed10/influencer-gears
