@@ -1,4 +1,5 @@
 # all-live-website-link
+### advice generator: https://bulbu-ahmed-advice-generator.netlify.app/
 ### tasty hut: https://teasty-hut.netlify.app/
 ### ADEN - Ecommerce website : https://aden-ecommerce-webiste.netlify.app/
 ### Legal Solution website(responsive): https://legal-solution-house.netlify.app/
